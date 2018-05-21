@@ -1,0 +1,6 @@
+/vendor
+/Application/Runtime
+Application/Common/Conf/db.php
+ThinkPHP/Conf/convention.php
+Application/Common/Conf/config.php
+.gitignore
