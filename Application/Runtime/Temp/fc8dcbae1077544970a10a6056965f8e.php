@@ -1,0 +1,3 @@
+<?php
+//000000000001a:1:{i:0;a:17:{s:10:"article_id";s:2:"14";s:6:"cat_id";s:2:"13";s:5:"title";s:12:"招聘英才";s:7:"content";s:28:"				            				        ";s:6:"author";s:0:"";s:12:"author_email";s:0:"";s:8:"keywords";s:0:"";s:12:"article_type";s:1:"2";s:7:"is_open";s:1:"0";s:8:"add_time";s:10:"1464410718";s:8:"file_url";s:0:"";s:9:"open_type";s:1:"0";s:4:"link";s:0:"";s:11:"description";s:0:"";s:5:"click";s:4:"1062";s:12:"publish_time";s:10:"1464451200";s:5:"thumb";s:0:"";}}
+?>
